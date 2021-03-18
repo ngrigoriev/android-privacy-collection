@@ -3,3 +3,5 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 uemm.dynatrace.ford.com
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
