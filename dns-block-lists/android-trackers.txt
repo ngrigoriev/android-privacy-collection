@@ -1,5 +1,7 @@
 0.0.0.0 app-measurement.com
+0.0.0.0 example.org
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 uemm.dynatrace.ford.com
