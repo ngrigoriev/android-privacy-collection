@@ -7,3 +7,5 @@
 0.0.0.0 uemm.dynatrace.ford.com
 0.0.0.0 google-analytics.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 teams.events.data.microsoft.com
+
